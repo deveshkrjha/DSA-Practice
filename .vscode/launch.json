@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "rotatedSorted",
+            "request": "launch",
+            "mainClass": "ARRAY.rotatedSorted",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "ARRAY.Solution",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "maximumSubarray",
+            "request": "launch",
+            "mainClass": "ARRAY.maximumSubarray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "maxumumSubarray",
+            "request": "launch",
+            "mainClass": "ARRAY.maxumumSubarray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "digits",
+            "request": "launch",
+            "mainClass": "Practise.digits",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "STRING.palindrome",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "palindrone",
+            "request": "launch",
+            "mainClass": "STRING.palindrone",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "countInversions",
+            "request": "launch",
+            "mainClass": "SORTING.countInversions",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "unionSorted",
+            "request": "launch",
+            "mainClass": "SORTING.unionSorted",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "subArray3",
+            "request": "launch",
+            "mainClass": "ARRAY.subArray3",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "sortedRotated",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.sortedRotated",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "squareRoot",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.squareRoot",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "countOnesSorted",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.countOnesSorted",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "countOnes",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.countOnes",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "occurence",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.occurence",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "lastOccurenceIndex",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.lastOccurenceIndex",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "firstOccuranceIndex",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH.firstOccuranceIndex",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "firstOccurance",
+            "request": "launch",
+            "mainClass": "firstOccurance",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "stockBuySell",
+            "request": "launch",
+            "mainClass": "ARRAY.stockBuySell",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "frequenciesSortedArray",
+            "request": "launch",
+            "mainClass": "ARRAY.frequenciesSortedArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "maximumDifference",
+            "request": "launch",
+            "mainClass": "ARRAY.maximumDifference",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLList",
+            "request": "launch",
+            "mainClass": "ARRAY.ArrayLList",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "deleteArray",
+            "request": "launch",
+            "mainClass": "ARRAY.deleteArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "insertArray",
+            "request": "launch",
+            "mainClass": "ARRAY.insertArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "leaders",
+            "request": "launch",
+            "mainClass": "ARRAY.leaders",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "leftRotateArray",
+            "request": "launch",
+            "mainClass": "ARRAY.leftRotateArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "leftRotateByDPlaces",
+            "request": "launch",
+            "mainClass": "ARRAY.leftRotateByDPlaces",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "moveZeroesToEnd",
+            "request": "launch",
+            "mainClass": "ARRAY.moveZeroesToEnd",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicateArray",
+            "request": "launch",
+            "mainClass": "ARRAY.removeDuplicateArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "ARRAY.reverseArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "searchArray",
+            "request": "launch",
+            "mainClass": "ARRAY.searchArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "secondLargestArray",
+            "request": "launch",
+            "mainClass": "ARRAY.secondLargestArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "sortedArray",
+            "request": "launch",
+            "mainClass": "ARRAY.sortedArray",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "Josephus",
+            "request": "launch",
+            "mainClass": "Josephus",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "Nto1",
+            "request": "launch",
+            "mainClass": "Nto1",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "oneToN",
+            "request": "launch",
+            "mainClass": "oneToN",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "DSA GFG_869c7df"
+        },
+        {
+            "type": "java",
+            "name": "towerOfHanoi",
+            "request": "launch",
+            "mainClass": "towerOfHanoi",
+            "projectName": "DSA GFG_869c7df"
+        }
+    ]
+}

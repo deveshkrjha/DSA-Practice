@@ -1,18 +1,16 @@
 package ARRAY;
 //REMOVE DUPLICATE ARRAY FROM SORTED ARRAY
 public class removeDuplicateArray {
-    static int removeElement(int arr[])
+    static int removeElement(int nums[])
     {
-        int res=1;
-        for(int i=1;i<arr.length;i++)
-        {
-            if(arr[i]!=arr[res-1])
-            {
-                arr[res]=arr[i];
-                res++;
+        int count=0;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]!=nums[count]){
+                nums[count+1]=nums[i];
+                count++;
             }
         }
-        return res;
+        return count+1;
     }
     public static void main(String[] args) {
         int A[]={2,4,4,6,6,8,10,20,20};

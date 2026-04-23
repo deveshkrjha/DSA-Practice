@@ -18,20 +18,36 @@ public class moveZeroesToEnd {
         // }
 
         
-        //EFFICIENT SOLUTION
+        //EFFICIENT SOLUTION:Swap using two pointer approach
         //TIME COMPLEXITY=O(n)
         //AUX SPACE=O(1)
-        int count=0;
-        for(int i=0;i<arr.length;i++)
-        {
-            if(arr[i]!=0)
-            {
-                int temp=arr[i];
-                arr[i]=arr[count];
-                arr[count]=temp;
-                count++;
+        // int count=0;
+        // for(int i=0;i<arr.length;i++)
+        // {
+        //     if(arr[i]!=0)
+        //     {
+        //         int temp=arr[i];
+        //         arr[i]=arr[count];
+        //         arr[count]=temp;
+        //         count++;
+        //     }
+        // }
+
+        //EFFICIENT SOLUTION:two pointer approach without swapping
+        //TIME COMPLEXITY=O(n)
+        //AUX SPACE=O(1)
+        int j=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]!=0){
+                arr[j]=arr[i];
+                j++;
             }
         }
+        while(j<arr.length){
+            arr[j]=0;
+            j++;
+        }
+    
     }
     public static void main(String[] args)
     {

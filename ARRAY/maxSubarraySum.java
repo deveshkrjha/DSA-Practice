@@ -12,25 +12,25 @@ package ARRAY;
 //Naive Approach
 //Time Complexity: O(n^2)
 //Auxiliary Space: O(1)
-public class maximumSubarray {
-    int maxSubarraySum(int[] arr) {
-        // Code here
-        int res=arr[0];
-        for(int i=0;i<arr.length;i++){
-            int current=0;
-            for(int j=i;j<arr.length;j++){
-                current=current+arr[j];
-                res=Math.max(res,current);
-            }
-        }
-        return res;
-    }
+public class maxSubarraySum {
+    // int SubarraySum(int[] arr) {
+    //     // Code here
+    //     int res=arr[0];
+    //     for(int i=0;i<arr.length;i++){
+    //         int current=0;
+    //         for(int j=i;j<arr.length;j++){
+    //             current=current+arr[j];
+    //             res=Math.max(res,current);
+    //         }
+    //     }
+    //     return res;
+    // }
     
 
     //Efficient Approach(Kadane's Algorithm)
     //Time Complexity: O(n)
     //Auxiliary Space: O(1)
-    int maxSubarraySum(int[] arr) {
+    int SubarraySum(int[] arr) {
         // Code here
         int res=arr[0];
         int maxEnding=arr[0];
